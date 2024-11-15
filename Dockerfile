@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-LABEL maintainer="vasiliy.volodchenko@umbrellait.com"
+LABEL maintainer="example@mail.com"
 
 RUN apk update && apk upgrade
 
